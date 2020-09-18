@@ -1,0 +1,10 @@
+C:\Users\George\source\repos\HatMasters\HatMasters\bin\Debug\HatMasters.exe.config
+C:\Users\George\source\repos\HatMasters\HatMasters\bin\Debug\HatMasters.exe
+C:\Users\George\source\repos\HatMasters\HatMasters\bin\Debug\HatMasters.pdb
+C:\Users\George\source\repos\HatMasters\HatMasters\obj\Debug\HatMasters.csprojAssemblyReference.cache
+C:\Users\George\source\repos\HatMasters\HatMasters\obj\Debug\HatMasters.Form1.resources
+C:\Users\George\source\repos\HatMasters\HatMasters\obj\Debug\HatMasters.Properties.Resources.resources
+C:\Users\George\source\repos\HatMasters\HatMasters\obj\Debug\HatMasters.csproj.GenerateResource.cache
+C:\Users\George\source\repos\HatMasters\HatMasters\obj\Debug\HatMasters.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\HatMasters\HatMasters\obj\Debug\HatMasters.exe
+C:\Users\George\source\repos\HatMasters\HatMasters\obj\Debug\HatMasters.pdb
